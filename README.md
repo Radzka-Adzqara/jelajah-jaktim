@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JELAJAH JAKTIM
 
 Jelajah Jaktim merupakan aplikasi mobile berbasis Flutter yang dikembangkan sebagai media informasi wisata, budaya, dan kuliner khas Jakarta Timur. Aplikasi ini dirancang dengan tampilan sederhana, modern, dan mudah digunakan untuk membantu pengguna mengenal berbagai destinasi wisata serta budaya lokal Jakarta Timur.
